@@ -1,0 +1,16 @@
+ 2022-06-10 21:31:56,698 - DEBUG - Start of Program
+ 2022-06-10 21:31:56,699 - ERROR - No a in name
+ 2022-06-11 00:10:48,242 - DEBUG - Start of Program
+ 2022-06-11 00:10:48,243 - ERROR - No a in name
+ 2022-06-13 20:04:38,437 - DEBUG - Start of Program
+ 2022-06-13 20:04:38,438 - ERROR - No a in name
+ 2022-06-13 20:06:38,968 - DEBUG - Start of Program
+ 2022-06-13 20:06:38,969 - ERROR - No a in name
+ 2022-06-13 20:06:53,231 - DEBUG - Start of Program
+ 2022-06-13 20:06:53,233 - ERROR - No a in name
+ 2022-06-13 20:07:31,002 - DEBUG - Start of Program
+ 2022-06-13 20:07:31,003 - ERROR - No a in name
+ 2022-06-13 20:18:45,860 - DEBUG - Start of Program
+ 2022-06-13 20:18:45,861 - ERROR - No a in name
+ 2022-06-13 20:28:09,934 - DEBUG - Start of Program
+ 2022-06-13 20:28:09,937 - ERROR - No a in name
